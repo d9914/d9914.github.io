@@ -2097,11 +2097,10 @@ ul.actions li:first-child {
 	cursor: default;
 }
 
-.fa-python {
-	--fa-primary-color: #FFA500;
-	/* orange */
-	--fa-secondary-color: #0000FF;
-	/* blue */
+.fa-python,
+.fa-js,
+.fa-github {
+
 	font-size: 5em;
 
 }
